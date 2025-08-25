@@ -14,15 +14,4 @@ python scraper.py
 
 ✅ Recorded price: iPhone 15 Pro – 4199
 
-
-**pip install -r requirements.txt
-**
-
-
-
-**
----
-
-# 🔹 Project 4: Flask URL Shortener
-📂 **Repo Structure**
-**
+pip install -r requirements.txt
